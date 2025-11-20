@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: #ffffff;
+    background-image: url('foster-lake.jpg');
+    background-repeat: repeat-x;
+    background-position: top right;
+    background-size: cover; */
+
+    background: url('foster-lake.jpg') repeat-x top right;
+    background-size: cover;
+    /* background: url('body_bkg2.png') repeat-x top right, url('body_bkg.jpg') no-repeat top 600px left; */
+}
+
+htmll,
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
